@@ -25,6 +25,7 @@ public class Main {
             opcion = sc.nextInt();
             switch (opcion) {
                 case 1:
+
                     //creamos el switch para el menu de artistas
                     do {
                         System.out.println("1. Añade un nuevo artista:");
